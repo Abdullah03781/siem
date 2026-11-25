@@ -1,0 +1,26 @@
+
+# Python caches
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# Build and packaging artifacts
+*.egg-info/
+dist/
+build/
+
+# Runtime SIEM databases
+*.db
+*.sqlite3
+
+# IDE files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
